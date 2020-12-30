@@ -1,6 +1,6 @@
-# calculator
+# Flutter Calculator
 
-A new Flutter project.
+<img src="https://i.imgur.com/oUgudSA.png"  width="300"/> <img src="https://i.imgur.com/3EwXxWu.png"  width="300"/>
 
 ## Getting Started
 
